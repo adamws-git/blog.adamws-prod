@@ -42,5 +42,8 @@
         }
       }
     ]
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "sharp"]
   }
 }
